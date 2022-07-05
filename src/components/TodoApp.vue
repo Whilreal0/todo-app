@@ -1,6 +1,5 @@
 <template>
     <v-card 
-        
         class="mx-auto  my-15" 
         width="min(90%, 25rem)"
         min-height="350"
