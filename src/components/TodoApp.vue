@@ -1,7 +1,7 @@
 <template>
     <v-card 
         
-        class="mx-auto  mt-15" 
+        class="mx-auto  my-15" 
         width="min(90%, 25rem)"
         min-height="350"
         elevation="2" style="background:#DFBB9D">
